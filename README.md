@@ -2,7 +2,9 @@
 
 A long long text for the title.
 
-[![](http://i.imgur.com/mtGRPuM.png | width=140)](https://github.com)
+<a href="https://github.com">
+    <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
+</a>
 
 ## About
 
