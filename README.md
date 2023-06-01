@@ -1,5 +1,7 @@
 ## Title
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/je2rymouse/MyNotes)
+
 A long long text for the title.
 
 <a href="https://github.com">
