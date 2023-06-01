@@ -1,6 +1,6 @@
 ## Title
 
-[![Latest Github release](https://img.shields.io/github/v/release/je2rymouse/MyNotes)](https://github.com/je2rymouse/MyNotes/releases/latest)
+[![Latest Github release](https://img.shields.io/github/v/release/je2rymouse/MyNotes?style=plastic)](https://github.com/je2rymouse/MyNotes/releases/latest)
 
 A long long text for the title.
 
