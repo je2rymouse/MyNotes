@@ -2,7 +2,7 @@
 
 A long long text for the title.
 
-[![Link](http://i.imgur.com/mtGRPuM.png)](https://github.com)
+[![](http://i.imgur.com/mtGRPuM.png | width=140)](https://github.com)
 
 ## About
 
