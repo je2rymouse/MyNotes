@@ -5,7 +5,7 @@
 A long long text for the title.
 
 <a href="https://github.com">
-    <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
+    <img alt="Get it on Google Play" title="Google Play" src="https://i.ibb.co/BnzV9tJ/get-it-on-google-play.png" width="140">
 </a>
 
 ## About
