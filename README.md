@@ -4,6 +4,8 @@
 
 A long long text for the title.
 
+<img alt="Get it on Google Play" title="Google Play" src="https://i.ibb.co/BnzV9tJ/get-it-on-google-play.png" width="768">
+
 <a href="https://github.com">
     <img alt="Get it on Google Play" title="Google Play" src="https://i.ibb.co/BnzV9tJ/get-it-on-google-play.png" width="140">
 </a>
